@@ -70,7 +70,7 @@ Value at Risk (5%): $400,841.22
 
 ## Sample Visualization  
 
-The histogram below shows the distribution of simulated property valuations:
+The histogram below shows the distribution of simulated property valuations (refer to valuation-distribution file):
 
 ![Valuation Distribution](images/valuation_distribution.png)
 
